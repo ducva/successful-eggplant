@@ -10,13 +10,10 @@ excerpt: >-
 menus:
   main:
     identifier: blog
-tags: 'Django, migration'
 template: post
 ---
-
 In this post, I will show you a little magic of Django migration by resolving a weird issue.
 
-<!-- more -->
 # Steps to reproduce
 
 1. Create a Django project
