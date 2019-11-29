@@ -7,6 +7,9 @@ date: 2019-11-29T14:24:41.818Z
 excerpt: >-
   In this post, I will show you a little magic of Django migration by resolving
   a weird issue.
+menus:
+  main:
+    identifier: blog
 template: post
 ---
 Steps to reproduce
