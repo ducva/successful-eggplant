@@ -9,7 +9,7 @@ excerpt: >-
   a weird issue.
 menus:
   main:
-    identifier: Blog
+    identifier: ''
 template: post
 ---
 In this post, I will show you a little magic of Django migration by resolving a weird issue.
